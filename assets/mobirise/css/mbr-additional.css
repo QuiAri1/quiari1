@@ -2041,7 +2041,7 @@ body {
 }
 .cid-rr8fGWwLyZ {
   padding-top: 45px;
-  padding-bottom: 45px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-rr8fGWwLyZ img {
@@ -2088,6 +2088,57 @@ body {
   box-shadow: none!important;
 }
 .cid-rr8fGWwLyZ DIV {
+  color: #57468b;
+}
+.cid-rr8U3bfRPo {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rr8U3bfRPo img {
+  height: 100%;
+  margin: 0 auto;
+  padding-bottom: 2rem;
+}
+.cid-rr8U3bfRPo H1 {
+  color: #57468b;
+}
+.cid-rr8U3bfRPo .mbr-text,
+.cid-rr8U3bfRPo .mbr-section-btn {
+  color: #716c80;
+}
+.cid-rr8U3bfRPo H3 {
+  color: #716c80;
+}
+.cid-rr8U3bfRPo .mbr-iconfont {
+  padding-left: 0.4rem;
+}
+.cid-rr8U3bfRPo .btn-info-outline {
+  border: none;
+  color: #57468b !important;
+  padding: 0;
+  margin: 0 0.25rem!important;
+}
+.cid-rr8U3bfRPo .btn-info-outline span {
+  order: 2;
+  font-size: 1.1rem;
+  padding-top: 3px;
+  transition: padding 0.3s!important;
+}
+.cid-rr8U3bfRPo .btn-info-outline:hover span {
+  padding-left: 10px;
+}
+.cid-rr8U3bfRPo .btn-info-outline:hover {
+  background-color: transparent!important;
+  color: #ff8a73 !important;
+  box-shadow: none!important;
+}
+.cid-rr8U3bfRPo .btn-info-outline:active,
+.cid-rr8U3bfRPo .btn-info-outline:focus {
+  background-color: transparent!important;
+  box-shadow: none!important;
+}
+.cid-rr8U3bfRPo DIV {
   color: #57468b;
 }
 .cid-rr8iuAMIWQ {
@@ -2264,33 +2315,6 @@ body {
 .cid-rr8Ba7HRS0 .card-title B {
   color: #57468b;
 }
-.cid-rr7W7tPJVR {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #ffffff;
-}
-.cid-rr7W7tPJVR H1 {
-  color: #57468b;
-}
-.cid-rr7W7tPJVR .mbr-text,
-.cid-rr7W7tPJVR .mbr-section-btn {
-  color: #716c80;
-}
-.cid-rr7W7tPJVR img {
-  width: 100%;
-  border-radius: 10px;
-}
-@media (min-width: 1200px) {
-  .cid-rr7W7tPJVR .col-lg-6 {
-    padding: 0 2rem;
-  }
-}
-@media (max-width: 992px) {
-  .cid-rr7W7tPJVR img {
-    width: 100%;
-    margin-bottom: 2rem;
-  }
-}
 .cid-rr7W9Dk3RN {
   padding-top: 75px;
   padding-bottom: 75px;
@@ -2328,4 +2352,9 @@ body {
 }
 .cid-rr7W9Dk3RN H3 {
   color: #716c80;
+}
+.cid-rr8Th4LfXs {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #57468b;
 }
