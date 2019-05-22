@@ -2095,8 +2095,57 @@ body {
 .cid-rr8fGWwLyZ DIV {
   color: #57468b;
 }
+.cid-rrdcy3fPko {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/presentation-blue-1278x1280.jpg");
+}
+.cid-rrdcy3fPko img {
+  height: 100%;
+  margin: 0 auto;
+  padding-bottom: 2rem;
+}
+.cid-rrdcy3fPko H1 {
+  color: #f2f6ff;
+  text-align: left;
+}
+.cid-rrdcy3fPko .mbr-text,
+.cid-rrdcy3fPko .mbr-section-btn {
+  color: #716c80;
+}
+.cid-rrdcy3fPko H3 {
+  color: #716c80;
+}
+.cid-rrdcy3fPko .mbr-iconfont {
+  padding-left: 0.4rem;
+}
+.cid-rrdcy3fPko .link {
+  display: flex;
+  width: fit-content;
+  transition: all 0.3s;
+  align-items: center;
+}
+.cid-rrdcy3fPko .link .link-ico {
+  padding-top: 2px;
+  transition: padding 0.3s;
+}
+.cid-rrdcy3fPko .link:hover {
+  color: #ff8a73 !important;
+}
+.cid-rrdcy3fPko .link:hover .link-ico {
+  color: #ff8a73 !important;
+  padding-left: 10px;
+}
+.cid-rrdcy3fPko DIV {
+  color: #232323;
+  text-align: left;
+}
+.cid-rrdcy3fPko .mbr-text,
+.cid-rrdcy3fPko .media-content {
+  color: #ffffff;
+}
 .cid-rr8U3bfRPo {
-  padding-top: 15px;
+  padding-top: 60px;
   padding-bottom: 15px;
   background-color: #ffffff;
 }
